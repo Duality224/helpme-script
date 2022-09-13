@@ -1,2 +1,1 @@
-# helpme-script
-Linux bash script that sequentially runs input arguments through help, man, and Google
+Linux bash script that sequentially runs input arguments through help, man, and Google (via default XDG browser), and reports results from the former two sources in the terminal. Useful for finding documentation or information on a command, or anything really.
