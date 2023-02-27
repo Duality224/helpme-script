@@ -1,1 +1,1 @@
-Linux bash script that sequentially runs input arguments through help, man, and Google (via default XDG browser), and reports results from the former two sources in the terminal. Useful for finding documentation or information on a command, or anything really.
+Linux bash script that sequentially runs input arguments through help, tldr, man, and Google (via default XDG browser), and reports results from the former three sources in the terminal. Useful for finding documentation or information on a command, or anything really.
